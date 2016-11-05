@@ -1,3 +1,30 @@
 [submodule "bundle/fugitive"]
 	path = bundle/fugitive
 	url = http://github.com/tpope/vim-fugitive.git
+[submodule "~/.vim/bundle/vim-fugitive"]
+	path = ~/.vim/bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/sensible"]
+	path = bundle/sensible
+	url = http://github.com/tpope/vim-sensible.git
+[submodule "bundle/eunuch"]
+	path = bundle/eunuch
+	url = http://github.com/tpope/vim-eunuch.git
+[submodule "bundle/endwise"]
+	path = bundle/endwise
+	url = http://github.com/tpope/vim-endwise.git
+[submodule "bundle/ruby"]
+	path = bundle/ruby
+	url = http://github.com/vim-ruby/vim-ruby.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = http://github.com/scrooloose/nerdtree.git
+[submodule "bundle/ctrlp"]
+	path = bundle/ctrlp
+	url = http://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "bundle/colors-solarized"]
+	path = bundle/colors-solarized
+	url = http://github.com/altercation/vim-colors-solarized
+[submodule "bundle/buffergator"]
+	path = bundle/buffergator
+	url = http://github.com/jeetsukumaran/vim-buffergator
