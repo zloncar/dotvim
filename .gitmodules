@@ -28,3 +28,6 @@
 [submodule "bundle/buffergator"]
 	path = bundle/buffergator
 	url = http://github.com/jeetsukumaran/vim-buffergator
+[submodule "bundle/molokai"]
+	path = bundle/molokai
+	url = http://github.com/tomasr/molokai
