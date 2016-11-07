@@ -31,3 +31,6 @@
 [submodule "bundle/molokai"]
 	path = bundle/molokai
 	url = http://github.com/tomasr/molokai
+[submodule "bundle/commentary"]
+	path = bundle/commentary
+	url = http://github.com/tpope/vim-commentary
