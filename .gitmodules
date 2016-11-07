@@ -34,3 +34,6 @@
 [submodule "bundle/commentary"]
 	path = bundle/commentary
 	url = http://github.com/tpope/vim-commentary
+[submodule "bundle/gitgutter"]
+	path = bundle/gitgutter
+	url = http://github.com/airblade/vim-gitgutter
