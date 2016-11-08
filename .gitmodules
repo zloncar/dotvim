@@ -37,3 +37,9 @@
 [submodule "bundle/gitgutter"]
 	path = bundle/gitgutter
 	url = http://github.com/airblade/vim-gitgutter
+[submodule "bundle/rspec"]
+	path = bundle/rspec
+	url = http://github.com/thoughtbot/vim-rspec
+[submodule "bundle/unimpaired"]
+	path = bundle/unimpaired
+	url = http://github.com/tpope/vim-unimpaired.git
