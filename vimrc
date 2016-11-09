@@ -27,3 +27,4 @@ let g:solarized_visibility="high"
 colorscheme solarized
 nmap <leader>ne :NERDTreeToggle<cr>
 set relativenumber
+set number
