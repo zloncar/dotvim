@@ -26,6 +26,9 @@ nmap <leader>ne :NERDTreeToggle<cr>
 set relativenumber
 set number
 
+" edit from the current buffer dir
+cnoremap red edit <c-r>=expand("%:h")<cr>/
+
 " The Silver Searcher
 if executable('ag')
   " Use ag over grep
