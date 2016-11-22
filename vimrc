@@ -16,6 +16,7 @@ set softtabstop=2
 
 autocmd Filetype ruby setlocal ts=2 sw=2 expandtab
 autocmd BufWritePre * %s/\s\+$//e
+autocmd BufNewFile,BufWinEnter * setlocal fo-=cro
 set colorcolumn=80
 highlight ColorColumn ctermbg=8
 syntax enable
